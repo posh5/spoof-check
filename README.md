@@ -20,6 +20,5 @@
 <h3 align="center">Suggestions + Advice + Guidance Appreciated </h3>
 <h4 align="center">Reverse engineer + Avid Learner + Software developer</h4>
 <h5 align="center">Contact me on discord to purchase source or the serial checker!</h5>
-<h6 align="center">Usage : $10</h6>
-<h7 align="center">Source : $40</h7>
+<h6 align="center">Usage : $10 /// Source : $40</h6>
 <p align="center">S4NTA#1111</p>
